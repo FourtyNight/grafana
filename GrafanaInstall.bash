@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#y0_AgAAAAB0BBAwAATuwQAAAAENzY01AAD3gM-LXWNFmI4A4Ac48-xnxfdYQg
 # Переменные
 GRAFANA_VERSION="8.4.3"
 GRAFANA_REPO_FILE="/etc/apt/sources.list.d/grafana.list"
